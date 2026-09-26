@@ -1,0 +1,10 @@
+.kilo
+.git 
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.#*
+.vscode
