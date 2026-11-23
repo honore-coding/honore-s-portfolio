@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://honore-port.vercel.app/sitemap.xml
